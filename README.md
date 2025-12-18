@@ -49,7 +49,7 @@ hca-revenue-guardian/
 ### Local Development
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/hca-revenue-guardian.git
+git clone https://github.com/ganji-rajesh/hca-revenue-guardian.git
 cd hca-revenue-guardian
 
 # Create virtual environment
