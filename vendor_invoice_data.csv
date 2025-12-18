@@ -1,0 +1,31 @@
+Invoice_ID,PO_Number,Vendor_Item_Name,Quantity,Unit_Cost,Invoice_Date
+INV-18424,PO-1001,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-02
+INV-91496,PO-1002,Ethicon Echelon Flex Powered Stapler,1,850.0,2025-10-17
+INV-29967,PO-1003,Stryker Triathlon Total Knee System,1,4500.0,2025-10-11
+INV-37219,PO-1004,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-15
+INV-44438,PO-1005,Zimmer Biomet Persona Trabecular Metal Tibia,1,3800.0,2025-10-13
+INV-52350,PO-1006,Boston Scientific Promus Premier Stent,1,1250.0,2025-10-02
+INV-80342,PO-1007,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-02
+INV-16250,PO-1008,Medtronic Evolut R Transcatheter Valve,1,32000.0,2025-10-14
+INV-34763,PO-1009,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-10
+INV-45295,PO-1010,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-10
+INV-28277,PO-1011,Medtronic Evolut R Transcatheter Valve,1,32000.0,2025-10-02
+INV-61851,PO-1012,Intuitive Surgical da Vinci EndoWrist Driver,1,2200.0,2025-10-09
+INV-95071,PO-1013,Boston Scientific Promus Premier Stent,1,1250.0,2025-10-13
+INV-29064,PO-1014,Medtronic Evolut R Transcatheter Valve,1,32000.0,2025-10-18
+INV-24222,PO-1015,Stryker Triathlon Total Knee System,1,4500.0,2025-10-14
+INV-51933,PO-1016,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-05
+INV-21217,PO-1017,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-19
+INV-40122,PO-1018,Stryker Triathlon Total Knee System,1,4500.0,2025-10-07
+INV-83831,PO-1019,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-08
+INV-74939,PO-1020,Boston Scientific Promus Premier Stent,1,1250.0,2025-10-09
+INV-83534,PO-1021,Boston Scientific Promus Premier Stent,1,1250.0,2025-10-08
+INV-93564,PO-1022,Edwards Sapien 3 Ultra Transcatheter Heart Valve,1,34500.0,2025-10-19
+INV-95604,PO-1023,Stryker Triathlon Total Knee System,1,4500.0,2025-10-15
+INV-55664,PO-1024,Ethicon Echelon Flex Powered Stapler,1,850.0,2025-10-01
+INV-73785,PO-1025,Boston Scientific Promus Premier Stent,1,1250.0,2025-10-18
+INV-86822,PO-1026,Intuitive Surgical da Vinci EndoWrist Driver,1,2200.0,2025-10-12
+INV-84940,PO-1027,Stryker Triathlon Total Knee System,1,4500.0,2025-10-11
+INV-79197,PO-1028,Smith & Nephew Healicoil Regenesorb Anchor,1,450.0,2025-10-03
+INV-47982,PO-1029,Intuitive Surgical da Vinci EndoWrist Driver,1,2200.0,2025-10-06
+INV-62353,PO-1030,Zimmer Biomet Persona Trabecular Metal Tibia,1,3800.0,2025-10-04
